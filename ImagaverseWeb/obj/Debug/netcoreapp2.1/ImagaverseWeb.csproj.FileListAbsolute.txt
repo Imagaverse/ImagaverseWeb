@@ -1,0 +1,85 @@
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.deps.json
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.runtimeconfig.json
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.runtimeconfig.dev.json
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.dll
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.pdb
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.csprojAssemblyReference.cache
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.csproj.CoreCompileInputs.cache
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorAssemblyInfo.cache
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorAssemblyInfo.cs
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.AssemblyInfoInputs.cache
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.AssemblyInfo.cs
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.dll
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.pdb
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.Views.dll
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.Views.pdb
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.TagHelpers.input.cache
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.TagHelpers.output.cache
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorCoreGenerate.cache
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.Views.pdb
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.csproj.CopyComplete
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Home.g.cshtml.cs
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Template\Header.g.cshtml.cs
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\_ViewStart.g.cshtml.cs
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Login.g.cshtml.cs
+C:\Users\Austin Gray\Desktop\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Register.g.cshtml.cs
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.deps.json
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.runtimeconfig.json
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.runtimeconfig.dev.json
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.dll
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.pdb
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.Views.dll
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.Views.pdb
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.csproj.CoreCompileInputs.cache
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorAssemblyInfo.cache
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorAssemblyInfo.cs
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.AssemblyInfoInputs.cache
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.AssemblyInfo.cs
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.TagHelpers.input.cache
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.TagHelpers.output.cache
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorCoreGenerate.cache
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Home.g.cshtml.cs
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Login.g.cshtml.cs
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Register.g.cshtml.cs
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Template\Header.g.cshtml.cs
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\_ViewStart.g.cshtml.cs
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorTargetAssemblyInfo.cache
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorTargetAssemblyInfo.cs
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.Views.pdb
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.dll
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.pdb
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.csproj.CopyComplete
+C:\Users\ryana\OneDrive\Imagaverse Website\ImagaverseASP\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.csprojAssemblyReference.cache
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.deps.json
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.runtimeconfig.json
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.runtimeconfig.dev.json
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.dll
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.pdb
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.Views.dll
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\bin\Debug\netcoreapp2.1\ImagaverseWeb.Views.pdb
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.csproj.CoreCompileInputs.cache
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorAssemblyInfo.cache
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorAssemblyInfo.cs
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.AssemblyInfoInputs.cache
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.AssemblyInfo.cs
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.TagHelpers.input.cache
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.TagHelpers.output.cache
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorCoreGenerate.cache
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Home.g.cshtml.cs
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Login.g.cshtml.cs
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Register.g.cshtml.cs
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_SocialMedia.g.cshtml.cs
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\Template\Header.g.cshtml.cs
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\Razor\_ViewStart.g.cshtml.cs
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorTargetAssemblyInfo.cache
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.RazorTargetAssemblyInfo.cs
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.Views.pdb
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.dll
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.pdb
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.csproj.CopyComplete
+C:\Users\ryana\Desktop\ImagaverseWeb\ImagaverseWeb\obj\Debug\netcoreapp2.1\ImagaverseWeb.csprojAssemblyReference.cache

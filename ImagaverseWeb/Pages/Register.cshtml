@@ -1,0 +1,46 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+@model ImagaverseWeb.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="PageContainer">
+    <h2>Register</h2>
+    <div class="RegistrationContainer">
+        <fieldset class="RegistrationInput">
+            <form>
+                <label for="username">UserName:</label>
+                <input type="text" id="username" required
+                       minlength="4" maxlength="32"
+                       placeholder="4 to 32 characters long"
+                       size="32" />
+                <label for="email">Email:</label>
+                <input type="email" id="email" required
+                       minlength="4" maxlength="32"
+                       placeholder="4 to 32 characters long"
+                       size="32" />
+                <label for="password">Password:</label>
+                <input type="password" id="password" required
+                       minlength="4" maxlength="32"
+                       placeholder="4 to 32 characters long"
+                       size="32" />
+                <label for="confpassword">Confirm Password:</label>
+                <input type="password" id="confpassword" required
+                       minlength="4" maxlength="32"
+                       placeholder="4 to 32 characters long"
+                       size="32" />
+                <input type="submit" value="Register">
+            </form>
+        </fieldset>
+        @{ 
+            
+        }
+
+        <!--textarea class="UserNameTextArea">
+        </!--textarea-->
+    </div>
+</div>
+

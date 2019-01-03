@@ -1,0 +1,87 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Imagaverse - @ViewData["Title"]</title>
+
+    <environment include="Development">
+        <!--<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />-->
+        <link rel="stylesheet" href="~/css/main.css" />
+        <link rel="stylesheet"
+              href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+              integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+              crossorigin="anonymous">
+    </environment>
+
+</head>
+<body class="dark-theme">
+
+    <div class="container">
+        <header class="HeaderContainer">
+            <nav class="Navigation-Hub">
+                <div class="inner-container">
+                    <strong class="logo">
+                        <a href="~/">
+                            <img class="HeaderLogo" height="100" width="100" src="~/images/ImagaverseLogo.png" contenteditable="true" onfocus="" />
+                            @{ 
+                                
+                            }
+
+                        </a>
+                    </strong>
+                    @Html.Partial("~/Pages/Shared/_SocialMedia.cshtml", new ImagaverseWeb.Shared._SocialMediaModel())
+                </div>
+
+                <div class="navi">
+                    <ul id="topmenu">
+                        @{
+                            string[] naviList = { "Home", "Wiki", "Discord", "Blog", "Login", "Register" };
+                            foreach (string Item in naviList)
+                            {
+                                string link = $"{Item}.cshtml";
+                                <li id=@Item class="NaviList">
+                                    <a asp-page=@Item><strong>@Item</strong></a>
+                                </li>
+                            }
+
+                        }
+                    </ul>
+                </div>
+                
+            </nav>
+        </header>
+
+        <div class="BodyContainer">
+            <aside class="SideBarLeft">
+                <div class="innerSideBar">
+                    <h3>LeftSideBar</h3>
+                </div>
+            </aside>
+            <div class="container body-content">
+                @RenderBody()
+            </div>
+            <aside class="SideBarRight">
+                <div class="innerSideBar">
+                    <div class="DiscordContainer">
+                        <h3>Join Our Discord!!</h3>
+                        <iframe class="DiscordWidget"
+                                src="https://canary.discordapp.com/widget?id=287032810366304266&theme=dark"
+                                width="250" height="450" allowtransparency="true" frameborder="0"></iframe>
+                    </div>
+                </div>
+            </aside>
+        </div>
+
+        <footer>
+            <hr />
+            @Html.Partial("~/Pages/Shared/_SocialMedia.cshtml", new ImagaverseWeb.Shared._SocialMediaModel())
+            <p>&copy; 2017 - 2018 Imagaverse - All Rights Reserved</p>
+
+        </footer>
+
+    </div>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

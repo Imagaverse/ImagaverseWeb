@@ -1,0 +1,18 @@
+﻿@page
+@model ImagaverseWeb.Template.HeaderModel
+@{
+    <nav class="Navigation-Hub">
+        <ul id="topmenu">
+            @{
+                string[] naviList = { "Home", "Wiki", "Discord", "Blog" };
+                foreach (string Item in naviList)
+                {
+                    string link = $"{Item}.cshtml";
+                    <li class="NaviList">
+                        <a href=@link>@Item</a>
+                    </li>
+                }
+            }
+        </ul>
+    </nav>
+}
